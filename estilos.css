@@ -1,0 +1,37 @@
+header {
+    background-color: burlywood;
+    color: black;
+    font-size: xx-large;
+    font-family: "Fasthand" , cursive;
+    text-align: center;
+}
+a {
+    color: black;
+}
+h1 {
+    background-color: rgb(36, 31, 24);
+    color: beige;
+    text-align: center;
+}
+h2 {
+    background-color: rgb(36, 31, 24);
+    color: white;
+    text-align: center;
+}
+h3 {
+    background-color: rgb(36, 31, 24);
+    color: white;
+    text-align: center;
+}
+p {
+    text-align: justify;
+}
+ul{
+    text-align: center;
+}
+img {
+    width: 700px;
+    height: 400px;
+    margin: auto;
+    display: block;
+}
